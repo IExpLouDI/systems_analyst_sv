@@ -9,16 +9,16 @@
 - [Схема переходов состояний](#deploy-и-ci/cd)
 
 ## <h2 id="технологии">Технологии</h2>
-| Name  | Badge                                                                                                                       | 
-|-------|-----------------------------------------------------------------------------------------------------------------------------| 
-| JAVA  | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">  | 
-| SOAP  | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png">  | 
-| REST  | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">  | 
-| Jira  | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png">  | 
-| Kafka | <img height="50" src="pictures/kafka-svgrepo-com.svg">  | 
-| PostgreSQL | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">  | 
-| Jenkins | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png">  | 
-| Grafana | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png">  | 
+| Наименование | Обозначение                                                                                                                        | Назначение                                                  |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| JAVA         | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">       | Разработка высоконагруженного приложения                    |
+| SOAP         | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png">       | Протокол взаимодействия пользователя с приложением          |
+| REST         | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">       | Архитектура взаимодействия пользователя с приложением       |
+| Jira         | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png">       | Система управления рабочими процессами                      |
+| Kafka        | <img height="50" src="pictures/kafka-svgrepo-com.svg">                                                                             | Брокер сообщений, для взаимодействия с сторонними сервисами |
+| PostgreSQL   | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"> | База данных для хранения информации                         | 
+| Jenkins      | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png">    | Для непрерывной разработки сервиса                          | 
+| Grafana      | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png">    | Мониторинг логов сервисов                                   | 
 
 
 [(Вернуться к содержанию)](#Содержание)
